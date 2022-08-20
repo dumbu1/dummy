@@ -1,0 +1,8 @@
+testRuns\TestRun_All.class
+testRuns\TestRuns_Parallel.class
+testRuns\TestRuns_firefox.class
+stepDefinations\Page4.class
+stepDefinations\Page3.class
+stepDefinations\Page2.class
+stepDefinations\CommonMethods.class
+stepDefinations\Page1.class
